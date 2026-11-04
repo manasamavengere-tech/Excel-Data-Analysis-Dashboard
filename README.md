@@ -1,2 +1,3 @@
-# Excel-Data-Analysis-Dashboard
-I developed a comprehensive project in Excel creating multiple charts, tables and dashboard to analyze sales data. This process involves several stages, including data processing, transformation, data cleaning and data visualization.
+# Superstore-Sales Analysis (Interactive Dashboard using MS Excel)
+## Project Overview
+This project is an interactive Sales Performance Dashboard build using MS Excel to analyze Revenue performance across product categories, products, regions, customer segments, and months. The goal of this dashboard is to support quick decision making by transforming raw sales data into meaningful insights through KPIs and visual storytelling
