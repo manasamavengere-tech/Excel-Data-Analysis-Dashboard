@@ -42,4 +42,6 @@ This project is an interactive Sales Performance Dashboard build using MS Excel 
 •	Interactive Slicers.
 ## Dataset
 The Dataset used for this project is available here 
-- ca href="https://github.com/manasamavengere-tech/Excel-Data-Analysis-Dashboard/blob/main/superStore%20Dataset2026.xlsx")
+"https://github.com/manasamavengere-tech/Excel-Data-Analysis-Dashboard/blob/main/superStore%20Dataset2026.xlsx"
+## Dashboard Preview
+https://github.com/manasamavengere-tech/Excel-Data-Analysis-Dashboard/blob/main/Screenshot%202026-10-31%20212537.png
