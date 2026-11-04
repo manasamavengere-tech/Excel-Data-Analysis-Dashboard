@@ -3,11 +3,17 @@
 This project is an interactive Sales Performance Dashboard build using MS Excel to analyze Revenue performance across product categories, products, regions, customer segments, and months. The goal of this dashboard is to support quick decision making by transforming raw sales data into meaningful insights through KPIs and visual storytelling
 ## Business Objective 
 •	Evaluate overall sales performance using key performance indicators.
+
 •	Track total revenue and units sold.
+
 •	Identify the highest revenue product categories and products.
+
 •	Compare revenue across customer segments and regions
+
 •	Examine monthly revenue trends.
+
 •	Develop business driven recommendations to support business decisions.
+
 ## Tools and skills used
 •	Microsoft Excel
 •	Pivot tables
