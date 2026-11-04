@@ -51,7 +51,7 @@ This project is an interactive Sales Performance Dashboard build using MS Excel 
 
 •	Total Customers 1130
 
-•	Total Orders 
+•	Total Orders 1365
 
 ## Dashboard Insights
 •	Technology generated the highest revenue across all categories.
