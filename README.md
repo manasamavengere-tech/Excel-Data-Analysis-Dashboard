@@ -44,4 +44,5 @@ This project is an interactive Sales Performance Dashboard build using MS Excel 
 The Dataset used for this project is available here 
 "https://github.com/manasamavengere-tech/Excel-Data-Analysis-Dashboard/blob/main/superStore%20Dataset2026.xlsx"
 ## Dashboard Preview
+<img width="762" height="465" alt="Screenshot 2026-10-31 212537" src="https://github.com/user-attachments/assets/8807c069-f688-490a-af94-5d9e0fcc9739" />
 https://github.com/manasamavengere-tech/Excel-Data-Analysis-Dashboard/blob/main/Screenshot%202026-10-31%20212537.png
