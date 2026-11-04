@@ -46,6 +46,7 @@ The Dataset used for this project is available here
 ## Dashboard Preview
 <img width="762" height="465" alt="Screenshot 2026-10-31 212537" src="https://github.com/user-attachments/assets/8807c069-f688-490a-af94-5d9e0fcc9739" />
 https://github.com/manasamavengere-tech/Excel-Data-Analysis-Dashboard/blob/main/Screenshot%202026-10-31%20212537.png
+
 ## Recommendation
 Based on the insights from sale performance dashboard the following actions are recommended
 To improve the sales of Superstore a strategic marketing plan focused on customer segment on low revenue so as to capture their attention. 
@@ -59,6 +60,7 @@ To improve the sales of Superstore a strategic marketing plan focused on custome
 The Sales Performance Dashboard effectively highlights Key Performance Indicators and sales pattern across regions, customer segments, products, product category. It enables stakeholders to quickly identify high performing areas such as (top region, product category) and they can optimize sales strategies based on customer segment performance 
 
 To sum up, this dashboard demonstrates my ability to:
+
 •	Apply Excel analytics techniques for business decision-making 
 •	Clean and structure data for reporting 
 •	Build interactive Excel dashboards using pivot table, charts and slicers
