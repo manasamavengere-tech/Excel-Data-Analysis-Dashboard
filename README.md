@@ -43,15 +43,15 @@ This project is an interactive Sales Performance Dashboard build using MS Excel 
 •	Merged all pivot tables into one dashboard and apply slicers for deeper analysis.
 
 ## Key Metrics
-### •	Total revenue $1984464.43
+ •	Total revenue $1984464.43
 
-### •	Units Sold 25268
+ •	Units Sold 25268
 
-### •	Average Order Value $145382
+ •	Average Order Value $145382
 
-### •	Total Customers 1130
+ •	Total Customers 1130
 
-### •	Total Orders 1365
+ •	Total Orders 1365
 
 ## Dashboard Insights
 •	Technology generated the highest revenue across all categories.
